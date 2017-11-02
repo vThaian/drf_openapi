@@ -12,7 +12,7 @@ To install DRF OpenAPI, run this command in your terminal:
 
 .. code-block:: console
 
-    $ pip install drf_openapi
+    $ pip install drf-openapi
 
 This is the preferred method to install DRF OpenAPI, as it will always install the most recent stable release. 
 
